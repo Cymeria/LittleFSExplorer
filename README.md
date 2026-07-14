@@ -278,5 +278,19 @@ MIT License - See [LICENSE](LICENSE) file for details.
 - [Arduino](https://www.arduino.cc/) - Software platform
 - [PlatformIO](https://platformio.org/) - Development environment
 - [LittleFS](https://github.com/littlefs-project/littlefs) - File system
+
+- 
+---
+
+## Built with MiMo
+
+This library was entirely coded with **[MiMo-V2.5](https://github.com/XiaoMi/MiMo)**, an advanced large language model developed by Xiaomi's AI team.
+
+MiMo is a state-of-the-art language model designed for code generation, technical writing, and complex problem-solving. With its strong understanding of programming languages, APIs, and software architecture, MiMo can assist developers in building production-ready libraries and applications from concept to completion.
+
+**Special thanks to MiMo** for its exceptional coding capabilities, attention to detail, and ability to handle multi-step development tasks. This project demonstrates MiMo's proficiency in embedded systems programming, web development, and creating developer-friendly tools.
+
+Thank you, MiMo, for making this project possible! 🚀
+
 - [ESP8266](https://github.com/esp8266/Arduino) - ESP8266 Arduino core
 - [ESP32](https://github.com/espressif/arduino-esp32) - ESP32 Arduino core
